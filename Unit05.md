@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS101: Introduction to Computer Science I"
+course_description: "An introductory course that covers the basic concepts, nomenclature, and historical perspective of computers and computing. Includes an introduction to software development and object-oriented programming."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Control Structures** <span id="5"></span> 
 *Control structures dictate what the behavior of a program will be under
 what circumstances. Control structures belong to one of two families:

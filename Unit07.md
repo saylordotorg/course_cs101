@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS101: Introduction to Computer Science I"
+course_description: "An introductory course that covers the basic concepts, nomenclature, and historical perspective of computers and computing. Includes an introduction to software development and object-oriented programming."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Arrays** <span id="7"></span> 
 *This unit discusses Arrays. An Array is a fixed-size data structure
 that allows elements of same data type to be stored in it. Each array

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS101: Introduction to Computer Science I"
+course_description: "An introductory course that covers the basic concepts, nomenclature, and historical perspective of computers and computing. Includes an introduction to software development and object-oriented programming."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: User-Defined Methods** <span id="6"></span> 
 *In addition to the methods predefined in Java, we can write
 user-defined methods. In this unit, we will discuss how to name a

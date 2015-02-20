@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS101: Introduction to Computer Science I"
+course_description: "An introductory course that covers the basic concepts, nomenclature, and historical perspective of computers and computing. Includes an introduction to software development and object-oriented programming."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Java Fundamentals** <span id="3"></span> 
 *Now that you have a basic understanding of OO programming, we will move
 on to the fundamental concepts of the programming language we will be

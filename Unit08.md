@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS101: Introduction to Computer Science I"
+course_description: "An introductory course that covers the basic concepts, nomenclature, and historical perspective of computers and computing. Includes an introduction to software development and object-oriented programming."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Java I/O and Exception Handling** <span id="8"></span> 
 *In this unit, we will discuss two important programming concepts in
 Java: input and output, and well as exception handling. Input and output

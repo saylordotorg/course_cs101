@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS101: Introduction to Computer Science I"
+course_description: "An introductory course that covers the basic concepts, nomenclature, and historical perspective of computers and computing. Includes an introduction to software development and object-oriented programming."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Object-Oriented Programming** <span id="2"></span> 
 *Java is an Object-Oriented programming language. Since Object-Oriented
 programming (OO) is currently one of the most popular programming

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS101: Introduction to Computer Science I"
+course_description: "An introductory course that covers the basic concepts, nomenclature, and historical perspective of computers and computing. Includes an introduction to software development and object-oriented programming."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction** <span id="1"></span> 
 *We will begin this course by identifying our motivation for learning
 fundamental programming concepts and learning the history of programming
